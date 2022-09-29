@@ -21,7 +21,7 @@ public class java_0929_consoldisplay {
 		System.out.printf("%.2f\n",1.2355);
 		System.out.printf("%f\n",23.5555485);
 		
-		//commit test
+		//commit test1
 	}
 
 }
