@@ -20,6 +20,8 @@ public class java_0929_consoldisplay {
 		// \t = tab 키, \n = 줄바꿈
 		System.out.printf("%.2f\n",1.2355);
 		System.out.printf("%f\n",23.5555485);
+		
+		//commit test
 	}
 
 }
